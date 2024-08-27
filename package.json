@@ -1,0 +1,23 @@
+{
+  "name": "cobalt-spectrum",
+  "publisher": "jithuraj",
+  "displayName": "cobalt spectrum",
+  "description": "minimal color theme",
+  "version": "0.0.3",
+  "icon": "images/icon.jpg",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cobalt spectrum",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minimal-color-theme.json"
+      }
+    ]
+  }
+}
