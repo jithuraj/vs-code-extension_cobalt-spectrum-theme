@@ -3,7 +3,7 @@
   "publisher": "jithuraj",
   "displayName": "cobalt spectrum",
   "description": "minimal color theme",
-  "version": "0.0.3",
+  "version": "0.1.1",
   "icon": "images/icon.jpg",
   "engines": {
     "vscode": "^1.92.0"
